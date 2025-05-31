@@ -1,10 +1,10 @@
 <template>
-<h1>listado de posts:</h1>
-<PostContainer/>
+<h1>Esta opcion esta hecha con composition:</h1>
+<CounterComposition/>
 </template>
 
 <script setup>
-import PostContainer from './components/PostContainer.vue'
+import CounterComposition from './components/CounterComposition.vue'
 </script>
 
 <style>
