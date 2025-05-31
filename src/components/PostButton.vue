@@ -1,5 +1,5 @@
 <template>
-<button calss="post-btn" >Acceder</button>
+<button class="post-btn" >Acceder</button>
 </template>
 
 <script setup>
@@ -13,5 +13,10 @@
   color: white;
   border: 0;
   outline: 0;
+}
+
+.post-btn:hover{
+  background-color: white;
+  color: blueviolet;
 }
 </style>
