@@ -1,5 +1,5 @@
 <template>
-<h1>Esta opcion esta hecha con composition:</h1>
+<h1>Esta opcion esta hecha con composition y tiene el modulo canvas:</h1>
 <CounterComposition/>
 </template>
 
@@ -9,6 +9,6 @@ import CounterComposition from './components/CounterComposition.vue'
 
 <style>
 h1{
-  color: green;
+  color:red;
 }
 </style>
